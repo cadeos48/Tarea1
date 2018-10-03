@@ -21,7 +21,7 @@ public class AVMIndiv01 {
            System.out.println("Si va a contener números enteros, deberemos indicar que dicha variable contendrá ese tipo de datos mediante int");
            System.out.println("Por lo tanto, al escribir en el código fuente int delante del nombre de la variable, estamos indicando al compilador que va a contener datos de tipo entero");
            System.out.println("Así, si definimos la variable como int malaSuerte, estaremos indicando al compilador que la variable malaSuerte es de tipo entero");
-           System.out.println("A continuación voy a definir la variable entera malaSuerte y le voy a asignar el valor entero 13, para que se escriba dicho valor en pantalla");
+           System.out.println("A voy a definir la variable entera malaSuerte y le voy a asignar el valor entero 13, para que se escriba dicho valor en pantalla");
            int malaSuerte = 13;
            System.out.println(malaSuerte);
 
